@@ -1,3 +1,2 @@
-## Portfolio website  
-### By James Corino
+## Portfolio website by James Corino
 #### Created using GitHub template
