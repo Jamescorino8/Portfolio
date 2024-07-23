@@ -1,7 +1,7 @@
 import React from 'react';
 
-// import Header from './Components/Header';
-// import Home from './Components/Home';
+import Header from './Components/Header';
+import Home from './Components/Home';
 import About from './Components/About';
 // import Education from './Components/Education';
 // import Portfolio from './Components/Portfolio';
@@ -24,8 +24,8 @@ const secondaryColor = "green";
 const App = () => {
   return (
       <div id={"main"}>
-        {/*<Header />*/}
-        {/*<Home />*/}
+        <Header />
+        <Home />
         <About />
         {/*<Education />*/}
         {/*<Portfolio />*/}
